@@ -11,6 +11,7 @@ namespace GITTestProject
 		static void Main(string[] args)
 		{
 			//DAVIDY added this main trunk branch
+			//Oh and this is Phase 2 stuff
 		}
 	}
 }
